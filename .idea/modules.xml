@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AdvanceJavaatutorial.iml" filepath="$PROJECT_DIR$/.idea/AdvanceJavaatutorial.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assesments-3-AutoBoxing/Assesments-3-AutoBoxing.iml" filepath="$PROJECT_DIR$/Assesments-3-AutoBoxing/Assesments-3-AutoBoxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assesments-4-Enumeration/Assesments-4-Enumeration.iml" filepath="$PROJECT_DIR$/Assesments-4-Enumeration/Assesments-4-Enumeration.iml" />
     </modules>
   </component>
 </project>
