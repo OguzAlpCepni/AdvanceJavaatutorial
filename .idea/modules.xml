@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AdvanceJavaatutorial.iml" filepath="$PROJECT_DIR$/.idea/AdvanceJavaatutorial.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Assesments-2-MultiThreading/Assesments-2-MultiThreading.iml" filepath="$PROJECT_DIR$/Assesments-2-MultiThreading/Assesments-2-MultiThreading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assesments-3-AutoBoxing/Assesments-3-AutoBoxing.iml" filepath="$PROJECT_DIR$/Assesments-3-AutoBoxing/Assesments-3-AutoBoxing.iml" />
     </modules>
   </component>
 </project>
