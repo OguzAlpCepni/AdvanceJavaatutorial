@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/AdvanceJavaatutorial.iml" filepath="$PROJECT_DIR$/.idea/AdvanceJavaatutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assesments-10-StringBuffer/Assesments-10-StringBuffer/Assesments-10-StringBuffer.iml" filepath="$PROJECT_DIR$/Assesments-10-StringBuffer/Assesments-10-StringBuffer/Assesments-10-StringBuffer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assesments-10-StringBufferr/Assesments-10-StringBufferr.iml" filepath="$PROJECT_DIR$/Assesments-10-StringBufferr/Assesments-10-StringBufferr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assesments-3-AutoBoxing/Assesments-3-AutoBoxing.iml" filepath="$PROJECT_DIR$/Assesments-3-AutoBoxing/Assesments-3-AutoBoxing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assesments-4-Enumeration/Assesments-4-Enumeration.iml" filepath="$PROJECT_DIR$/Assesments-4-Enumeration/Assesments-4-Enumeration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assesments-5-HashMap/Assesments-5-HashMap.iml" filepath="$PROJECT_DIR$/Assesments-5-HashMap/Assesments-5-HashMap.iml" />
