@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+    Romen romen = new Romen();
+        System.out.println(romen.Value("MCMXCIV"));
+
     }
 }

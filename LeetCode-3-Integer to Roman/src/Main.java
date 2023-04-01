@@ -1,5 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        RomenNumbers romenNumbers = new RomenNumbers();
+        String value = "MCMXCIV";
+        System.out.println(romenNumbers.romanToInt(value));
     }
 }
