@@ -15,9 +15,9 @@ public class Main {
         //try{
         //    PlaceController(age);
         //}
-       // catch (IOException e){
-        //    System.out.println("if you are 18 you not entered place");
-       // }
+        // catch (IOException e){
+         //    System.out.println("if you are 18 you not entered place");
+        // }
 
         PlaceController(age);
     }
