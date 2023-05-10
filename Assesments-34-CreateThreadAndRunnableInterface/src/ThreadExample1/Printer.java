@@ -1,3 +1,5 @@
+package ThreadExample1;
+
 public class Printer extends Thread{
 
     private String name;
