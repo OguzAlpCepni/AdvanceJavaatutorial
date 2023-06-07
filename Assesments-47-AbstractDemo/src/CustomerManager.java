@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class CustomerManager {
+public class CustomerManager {
+    BaseDatabaseManager baseDatabaseManager; // strategy design pattern
+    public void getCustomer(){
+    baseDatabaseManager.getData();
+    }
 }

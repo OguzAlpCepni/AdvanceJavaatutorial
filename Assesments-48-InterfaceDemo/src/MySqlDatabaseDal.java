@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class MySqlDatabaseDal {
+public class MySqlDatabaseDal implements CustomerDal{
+    @Override
+    public void add() {
+        System.out.println("mysql eklendi");
+
+    }
 }

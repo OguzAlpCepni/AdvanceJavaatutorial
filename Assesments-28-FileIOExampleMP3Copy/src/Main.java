@@ -33,10 +33,41 @@ public class Main {
     }
     public static void main(String[] args) {
         dosyaoku();
+
+        Thread thread1 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                copy("marş2.mp3");
+            }
+        });
+        Thread thread2 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                copy("marş3.mp3");
+            }
+        });
+        Thread thread3 = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                copy("marş4.mp3");
+            }
+        });
+
+
         long start = System.currentTimeMillis();
-        copy("marş2.mp3");
-        copy("marş3.mp3");
-        copy("marş4.mp3");
+        thread1.start();
+        thread2.start();
+        thread3.start();
+        try {
+            thread1.join();
+            thread2.join();
+            thread3.join();
+        } catch (InterruptedException e) {
+            throw new RuntimeException(e);
+        }
+
+
+
         long finish = System.currentTimeMillis();
         System.out.println("3 dosya kopyalanması su kadar :"+((finish-start)/1000)+"saniye");
 

@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public class BaseDatabaseManager {
+public abstract class BaseDatabaseManager {
+    public abstract void getData();
+
 }

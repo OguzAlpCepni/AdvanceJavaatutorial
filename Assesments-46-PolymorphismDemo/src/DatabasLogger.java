@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class DatabasLogger {
+public class DatabasLogger extends BaseLogger{
+    public void Log(String message){
+        System.out.println("Database log message :"+ message);
+    }
 }

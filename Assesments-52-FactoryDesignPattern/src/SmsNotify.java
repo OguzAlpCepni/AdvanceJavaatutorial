@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class SmsNotify {
+public class SmsNotify implements INotify{
+    @Override
+    public void sendNotification(User user) {
+        System.out.println("SMS gönderildi");
+
+    }
 }

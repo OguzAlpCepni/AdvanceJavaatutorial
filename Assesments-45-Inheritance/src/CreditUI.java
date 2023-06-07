@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class CreditUI {
+public class CreditUI {
+    public void CalculateCredit(BaseCreditManager baseCreditManager ){
+        baseCreditManager.Calculate();
+    }
 }

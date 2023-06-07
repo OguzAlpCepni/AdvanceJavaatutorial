@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface JsonSerializer {
+public interface JsonSerializer {
+    public String serialization(Object obj);
 }

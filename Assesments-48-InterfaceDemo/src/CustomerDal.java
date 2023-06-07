@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface CustomerDal {
+public interface CustomerDal {
+    public void add();
 }

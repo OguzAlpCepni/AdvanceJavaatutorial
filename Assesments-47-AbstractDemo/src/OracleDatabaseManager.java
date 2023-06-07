@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class OracleDatabaseManager {
+public class OracleDatabaseManager extends BaseDatabaseManager{
+    @Override
+    public void getData() {
+        System.out.println("data came : Oracle ");
+
+    }
 }

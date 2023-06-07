@@ -1,2 +1,3 @@
-package PACKAGE_NAME;public interface INotify {
+public interface INotify {
+    void sendNotification(User user);
 }
